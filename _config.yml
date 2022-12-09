@@ -1,0 +1,28 @@
+# Theme
+remote_theme: epidrome/cover-card@main
+
+# Site Settings
+title: 'Arun Vedachalam'
+description: 'Chartered Accountant | Techie | Aquarist'
+
+# Online profiles
+surfer: 'surfer.epidro.me'
+scholar: 'scholar.epidro.me'
+
+# Images
+avatar: 'avatar.jpg'
+background: 'background.jpg'
+favicon: 'favicon.ico'
+
+social-links-order: [surfer,scholar]
+
+social-links:
+  - name: surfer 
+    url-pattern: '__USERNAME__'
+    url-scheme: 'https://'
+    icon-class: fas fa-2x fa-snowboarding
+
+  - name: scholar 
+    url-pattern: '__USERNAME__'
+    url-scheme: 'https://'
+    icon-class: fas fa-2x fa-graduation-cap
