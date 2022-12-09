@@ -6,8 +6,8 @@ title: 'Arun Vedachalam'
 description: 'Chartered Accountant | Techie | Aquarist'
 
 # Online profiles
-surfer: 'surfer.epidro.me'
-scholar: 'scholar.epidro.me'
+Linkedin: 'https://www.linkedin.com/in/arunvedachalam/'
+Telegram: 't.me/ArunVedachalam'
 
 # Images
 avatar: 'avatar.jpg'
@@ -17,12 +17,12 @@ favicon: 'favicon.ico'
 social-links-order: [surfer,scholar]
 
 social-links:
-  - name: surfer 
+  - name: Linkedin 
     url-pattern: '__USERNAME__'
     url-scheme: 'https://'
     icon-class: fas fa-2x fa-snowboarding
 
-  - name: scholar 
+  - name: Telegram 
     url-pattern: '__USERNAME__'
     url-scheme: 'https://'
     icon-class: fas fa-2x fa-graduation-cap
