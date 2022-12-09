@@ -20,7 +20,7 @@ social-links:
   - name: Linkedin 
     url-pattern: '__USERNAME__'
     url-scheme: 'https://'
-    icon-class: fas fa-2x fa-Linkedin
+    icon-class: fas fa-2x fa-snowboarding
 
   - name: Telegram 
     url-pattern: '__USERNAME__'
