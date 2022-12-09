@@ -14,7 +14,7 @@ avatar: 'avatar.jpg'
 background: 'background.jpg'
 favicon: 'favicon.ico'
 
-social-links-order: [surfer,scholar]
+social-links-order: [Linkedin,Telegram]
 
 social-links:
   - name: Linkedin 
